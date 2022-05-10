@@ -41,7 +41,7 @@ The objective of a tokenomics program is to establish a compelling market offeri
 
 
 ## Token Types
-- Creator Token: An artist creates, and their community gets priveledge and benefits. Bonded to allow early members more benefit per supporting share.
+- Creator Token: An artist creates, and their community gets privilege and benefits. Bonded to allow early members more benefit per supporting share.
 - Governance Token: A community issues the token to afford members a vote via token-gated systems (OtOv, Quadratic, Swarm, etc).
 - Security Token: A token (typically purchased as a crowdfund investment) with the expectation of an increased future value and liquidity.
 - Social/Community Token: A token which affords the holder certain access or benefits to socially valuable communities, events or experiences.
