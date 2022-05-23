@@ -1,6 +1,7 @@
-# DAO Tokenomics Toolkit
+# DAO Tokenomics Toolkit 
 A starter to help DAOs architect the Tokenomics for their community.
 
+![coin](favicon.ico)
 ## Tokenomics
 
 The objective of a tokenomics program is to establish a compelling market offering with a clear vision statement, espousing the values of blockchain based communities. Considering the questions below, you may produce a tokenomics chart and/or a whitepaper describing the incentives for specific communities to take part in such a community.
@@ -15,23 +16,27 @@ The objective of a tokenomics program is to establish a compelling market offeri
 8. Who should control minting? Should it be multisig?
 9. When should minting occur? Pre, Post, Lazy?
 10. Will tokens be released or sold in tiers (whitelists)?
-11. Should supply be capped?
-12. Should tokens be fungible?
-13. Should bonding be applied? What Kind?
-14. Are there other inflation/deflation mechanisms to consider?
-15. Is financial incentive separate from utility?
-16. Are there any vesting periods or locking requirements?
-17. How easily tradable/transferable should tokens be? 
-18. Who can trade tokens? Any costs or taxes involved?
-19. Do tokens need to be burnable? when?
-20. Do tokens need to be staked? Should stake be delegated?
-21. Does minting or transfer need callbacks (Besides ERC standards)?
-22. What gas fees are acceptable?
-23. Who pays for gas fees?
-24. Is a treasury being established?
-25. How much is the treasury endowed with?
-26. What can be redeemed with each token?
-27. Who determines or can change entitlements over time?
+12. Should supply be capped?
+13. Should tokens be fungible?
+14. Should bonding be applied? What Kind?
+15. Should tokens be streamable?
+16. Are there other inflation/deflation mechanisms to consider?
+17. Is financial incentive separate from utility?
+18. Are there any vesting periods or locking requirements?
+19. How easily tradable/transferable should tokens be? 
+20. Who can trade tokens? Any costs or taxes involved?
+21. Do tokens need to be burnable? when?
+22. Do tokens need to be staked? Should stake be delegated?
+23. Should token staking provide another (vote escrowed) token?
+24. Should tokens be allowed to participate in liquidity pools?
+25. Should tokens be lendable or used as collateral?
+26. Does minting or transfer need callbacks (Besides ERC standards)?
+27. What gas fees are acceptable?
+28. Who pays for gas fees?
+29. Is a treasury being established?
+30. How much is the treasury endowed with?
+31. What can be redeemed with each token?
+32. Who determines or can change entitlements over time?
 
 
 > "Token design is an intricate mixture of incentive mechanism design, economics, finance, game theory, software and complex system design, all of which need to be observed and iterated cautiously." -Javi
