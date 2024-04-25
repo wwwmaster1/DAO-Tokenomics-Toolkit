@@ -1,4 +1,4 @@
-# DAO Tokenomics Toolkit 
+# DAO Tokenomics Toolkit by Rogi.eth
 A starter to help DAOs architect the Tokenomics for their community.
 
 ![coin](favicon.ico)
